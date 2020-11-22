@@ -10,7 +10,6 @@ hoster.dat was grabbed from https://github.com/SUP3RIA/Atlantr but I made a few 
 
 # How to run:
 ```
-pip3 install -r requirements.txt
 python3 mailaccess.py
 ```
 
