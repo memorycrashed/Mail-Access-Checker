@@ -7,3 +7,11 @@ This is made for educational purposes and because I was bored. I do not encourag
 I know the code is bad, but it works.
 
 hoster.dat was grabbed from https://github.com/SUP3RIA/Atlantr but I made a few modifications to it.
+
+# How to run:
+```
+pip3 install -r requirements.txt
+python3 mailaccess.py
+```
+
+You need to put the combolist in the same directory.
